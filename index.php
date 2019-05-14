@@ -1,2 +1,2 @@
 <?php 
-echo 'witaj swiecie'; 
+echo 'witaj swiecie!'; 
